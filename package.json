@@ -1,0 +1,17 @@
+{
+  "name": "product-inventory-system",
+  "version": "1.0.0",
+  "description": "* Trata-se de uma API RESTFUL de um sistema de inventário de produtos.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gibson Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
